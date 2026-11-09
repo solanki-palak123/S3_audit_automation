@@ -1,0 +1,4 @@
+s3_audit_report.txt
+venv/
+__pycache__/
+.env
